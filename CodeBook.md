@@ -1,5 +1,5 @@
 # Code Book
-This document contains the original code book from the dataset below. The modifications done by [run_analysis.R](../samsungdata/run_analysis.R) 
+This document contains the original code book from the dataset below. The modifications done by [run_analysis.R](../run_analysis.R) 
 
 
 
