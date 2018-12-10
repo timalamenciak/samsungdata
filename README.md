@@ -7,11 +7,11 @@ This script sifts through the data and creates four variables for use in R:
 * means - This table contains the means for the 562 variables.
 * stdev - This table contains the standard deviation for each of the 562 variables.
 
-See CodeBook.md for a more detailed look at the above.
+See [CodeBook.md](CodeBook.md) for a more detailed look at the above.
 
 It also writes the summary table to a file named UCIHAR_Summary.csv
 
 ## Instructions
-Download the UCI HAR dataset for free from this link: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
-Expand the dataset into your working directory. It should all be contained a folder named "UCI HAR Dataset" within your working directory.
-Run the script.
+1. Download the UCI HAR dataset for free from this link: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+2. Expand the dataset into your working directory. It should all be contained a folder named "UCI HAR Dataset" within your working directory.
+3. Run the script.
